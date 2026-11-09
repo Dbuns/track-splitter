@@ -1,0 +1,44 @@
+[
+  {
+    "component": "ffmpeg",
+    "filename": "ffmpeg-9.0.2.tar.xz",
+    "url": "https://ffmpeg.org/releases/ffmpeg-9.0.2.tar.xz",
+    "sha256": "8c3850283eb25fa026482078a04051e0be17347b09ef81a0849bec15a96e002e"
+  },
+  {
+    "component": "libsndfile",
+    "filename": "libsndfile-1.2.2.tar.xz",
+    "url": "https://github.com/libsndfile/libsndfile/releases/download/1.2.2/libsndfile-1.2.2.tar.xz",
+    "sha256": "3799ca9924d3125038880367bf1468e53a1b7e3686a934f098b7e1d286cdb80e"
+  },
+  {
+    "filename": "qtbase-everywhere-src-6.8.3.tar.xz",
+    "url": "https://download.qt.io/archive/qt/6.8/6.8.3/submodules/qtbase-everywhere-src-6.8.3.tar.xz",
+    "sha256": "56001b905601bb9023d399f3ba780d7fa940f3e4861e496a7c490331f49e0b80",
+    "component": "qtbase"
+  },
+  {
+    "filename": "qtsvg-everywhere-src-6.8.3.tar.xz",
+    "url": "https://download.qt.io/archive/qt/6.8/6.8.3/submodules/qtsvg-everywhere-src-6.8.3.tar.xz",
+    "sha256": "35eb516460f00f264eb504baa253432384351cf23fb9980a5857190e8deef438",
+    "component": "qtsvg"
+  },
+  {
+    "filename": "qtimageformats-everywhere-src-6.8.3.tar.xz",
+    "url": "https://download.qt.io/archive/qt/6.8/6.8.3/submodules/qtimageformats-everywhere-src-6.8.3.tar.xz",
+    "sha256": "049bfb99845e4801672aca07c3c4fc4c140f932a3a33faa899419579e33ef1c8",
+    "component": "qtimageformats"
+  },
+  {
+    "filename": "pyside-setup-everywhere-src-6.8.3.tar.xz",
+    "url": "https://download.qt.io/official_releases/QtForPython/pyside6/PySide6-6.8.3-src/pyside-setup-everywhere-src-6.8.3.tar.xz",
+    "sha256": "d2c896f7f1a6a7ea4c9f98cfe317272fd139703ddf612b86999f09e48aeef0e6",
+    "component": "pyside"
+  },
+  {
+    "component": "qttranslations",
+    "filename": "qttranslations-everywhere-src-6.8.3.tar.xz",
+    "url": "https://download.qt.io/archive/qt/6.8/6.8.3/submodules/qttranslations-everywhere-src-6.8.3.tar.xz",
+    "sha256": "c3c61d79c3d8fe316a20b3617c64673ce5b5519b2e45535f49bee313152fa531"
+  }
+]
