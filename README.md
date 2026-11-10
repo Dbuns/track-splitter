@@ -49,6 +49,8 @@ The source setup stores the library, separated tracks, settings and model cache 
 
 ## Credits and licence
 
+I developed Track Splitter with substantial assistance from ChatGPT by OpenAI, including application code, interface design, documentation and artwork. I defined the requirements, tested the application and refined it through practical use and feedback.
+
 The application code and artwork are [MIT licensed](LICENSE).
 
 Separation uses [Demucs](https://github.com/facebookresearch/demucs) and [drumsep](https://github.com/inagoy/drumsep). The interface uses PySide6/Qt, with audio processing through PyTorch, SoundFile, sounddevice and FFmpeg.
